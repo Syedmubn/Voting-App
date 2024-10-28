@@ -35,3 +35,4 @@ thread==2.0.5
 torch==2.2.2
 urllib3_secure_extra==0.1.0
 watchdog==5.0.0
+gunicorn
